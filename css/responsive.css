@@ -1,0 +1,409 @@
+/* Desktop medium */
+@media (max-width: 1019px) {
+  .header-timetable {
+    display: none; }
+  .main-section h2,
+  .main-section .h2 {
+    font-size: 32px;
+    line-height: 36px; }
+  .media-list {
+    margin: 0 -15px; }
+  .media-list-item {
+    margin: 0 15px; }
+  .pros-list {
+    margin-left: -10px;
+    margin-right: -10px; }
+  .pros-tmb {
+    padding-left: 10px;
+    padding-right: 10px; }
+  .tris-list .row {
+    margin-left: -20px;
+    margin-right: -20px; }
+  .tris-list .row > * {
+    padding-right: 20px;
+    padding-left: 20px; }
+  .red-stats {
+    width: 272px;
+    height: 272px;
+    padding-top: 11px; }
+  .gene-pic img {
+    width: 272px;
+    height: 272px; }
+  .test-price {
+    width: 272px;
+    height: 272px;
+    padding-top: 40px; }
+  .test-price:before {
+    top: 14px; }
+  .test-price .price {
+    font-size: 32px;
+    line-height: 32px; }
+  .lab-pic {
+    width: 292px;
+    height: 292px; }
+  .lab-pic img {
+    width: 272px;
+    height: 272px; }
+  .lab-pros-tmb {
+    margin: 0 80px 0 0; }
+  .lab-pros-tmb-num {
+    font-size: 45px;
+    line-height: 45px; }
+  .about-logos img {
+    margin: 0 20px 20px 20px; }
+  .order-modal .modal-dialog {
+    width: 860px; }
+  .order-modal .modal-content {
+    padding: 40px 50px 50px 50px; }
+  .order-modal h2,
+  .order-modal .h2 {
+    text-align: center;
+    margin: 0 0 30px 0;
+    padding: 0 50px; }
+  .modal .list-descr {
+    text-align: center;
+    padding: 0; }
+  .modal-form {
+    padding-left: 0; } }
+
+/* Desktop medium END */
+/* Desktop small */
+@media (max-width: 909px) {
+  .header-logo {
+    width: 100%;
+    float: none;
+    text-align: center; }
+  .header-fixed .header-logo {
+    float: left;
+    width: 240px;
+    text-align: left; }
+  .header-fixed .header-about {
+    display: none; }
+  .header-about {
+    padding-top: 24px; }
+  .header-phone {
+    padding-top: 26px; }
+  .header-button {
+    padding-top: 10px; }
+  .section-top-lead {
+    font-size: 34px;
+    line-height: 40px; }
+  .pros-tmb {
+    width: 33.33%;
+    margin-bottom: 40px; }
+  .pros-tmb:nth-child(3n+1) {
+    clear: left; }
+  .dot-wrapper {
+    margin-top: 60px; }
+  .red-stats {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px; }
+  .gene-pic img {
+    width: 225px;
+    height: 225px; }
+  .list-descr {
+    margin-bottom: 30px; }
+  .question-form:before {
+    display: none; }
+  .question-form-wrapper:before {
+    display: none; }
+  .info-form-wrapper:before {
+    display: none; }
+  .test-price {
+    margin: 0 auto 30px auto; }
+  .main-section-recommend {
+    padding-top: 60px;
+    padding-bottom: 60px; }
+  .lab-pros {
+    margin: 12px -95px 40px 20px; }
+  .lab-pic {
+    width: 245px;
+    height: 245px; }
+  .lab-pic img {
+    width: 225px;
+    height: 225px; }
+  .order-modal .modal-dialog {
+    width: 720px; }
+  .order-modal h2,
+  .order-modal .h2 {
+    font-size: 32px;
+    line-height: 36px; } }
+
+/* Desktop small END */
+/* Tablet */
+@media (max-width: 767px) {
+  .header-about {
+    display: none; }
+  .section-top-plan {
+    margin: 75px 0 0 0; }
+  .plan-tmb {
+    margin: 0 0 50px 0; }
+  .plan-tmb-plus ul {
+    min-height: 0; }
+  .col-sm-4:nth-child(2) .plan-tmb h3,
+  .col-sm-4:nth-child(2) .plan-tmb .h3 {
+    display: none; }
+  .section-top-patent {
+    margin: 0; }
+  .section-top-patent-pic {
+    float: none;
+    text-align: center;
+    padding: 0;
+    margin: 30px 20px 25px 20px;
+    width: auto; }
+  .section-top-patent-text {
+    margin: 0;
+    padding: 0 30px 30px 30px; }
+  .section-top-media .ttl {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 10px; }
+  .pros-tmb {
+    width: 50%; }
+  .pros-tmb:nth-child(3n+1) {
+    clear: none; }
+  .pros-tmb:nth-child(2n+1) {
+    clear: left; }
+  .tris-list .row > *:nth-child(3n+1) {
+    clear: none; }
+  .tris-list .row > *:nth-child(2n+1) {
+    clear: left; }
+  .dot-true {
+    margin: 30px 0 0 0; }
+  .gene-list {
+    text-align: center; }
+  .gene-list .col-sm-4 {
+    float: none;
+    display: inline-block;
+    width: 100px; }
+  .gene-pic img {
+    width: 80px;
+    height: 80px; }
+  .gene-logo {
+    display: none; }
+  .header-fixed .header-phone {
+    display: none; }
+  .lab-pros {
+    margin-right: -15px;
+    margin-left: -15px; }
+  .lab-pros-tmb {
+    float: left;
+    width: 33.33%;
+    margin: 0;
+    padding-left: 15px;
+    padding-right: 15px; }
+  .lab-pros-tmb-pic {
+    margin-left: 0; }
+  .lab-pros-tmb-num {
+    font-size: 35px; }
+  .lab-pic {
+    margin-left: auto;
+    margin-right: auto; }
+  .research-wrapper {
+    margin: 70px 0 0 0; }
+  .team-tmb {
+    width: 33.33%;
+    margin-bottom: 40px; }
+  .team-tmb:nth-child(3n+1) {
+    clear: left; }
+  .patents-wrapper {
+    margin: 25px 0 0 0; }
+  .main-section-an {
+    padding-top: 40px; }
+  .an-consult-pic {
+    float: none;
+    text-align: center; }
+  .an-consult-descr {
+    width: auto;
+    float: none;
+    margin: 20px 0 0 0;
+    text-align: center; }
+  .main-section-contacts {
+    padding-top: 10px; }
+  .contacts-wrapper {
+    margin-top: 50px;
+    height: auto; }
+  .contacts-map-wrapper {
+    position: relative;
+    width: auto;
+    height: 240px;
+    left: auto;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    margin: 0; }
+  .contacts-map-wrapper:before {
+    display: none; }
+  .contacts-map-wrapper:after {
+    display: none; }
+  .map-mask {
+    display: none; }
+  .contacts-content {
+    border-radius: 0;
+    width: auto;
+    height: auto;
+    box-shadow: none;
+    margin: 40px 0 0 0;
+    padding: 0 20px;
+    text-align: center; }
+  .contacts-content:before {
+    display: none; }
+  footer {
+    text-align: center;
+    padding-top: 60px; }
+  .footer-copy {
+    text-align: center;
+    padding-top: 20px; }
+  .footer-logo,
+  .footer-logo-2 {
+    display: inline-block;
+    float: none;
+    padding: 0 10px 20px 10px; }
+  .list-descr {
+    padding-right: 0; }
+  .modal {
+    padding-right: 0 !important; }
+  .modal-dialog {
+    width: auto !important; }
+  .order-modal .modal-content {
+    padding: 30px 20px 20px 20px; }
+  .modal .close {
+    width: 15px;
+    height: 15px;
+    background-size: 15px 30px;
+    right: 10px;
+    top: 10px; }
+  .modal .close:hover {
+    background-position: 0 -15px; }
+  .order-modal h2,
+  .order-modal .h2 {
+    font-size: 22px;
+    line-height: 26px;
+    padding: 0; } }
+
+/* Tablet END */
+/* Mobile */
+@media (max-width: 479px) {
+  html,
+  body {
+    font-size: 14px;
+    line-height: 22px; }
+  .header-phone {
+    float: none !important;
+    width: auto;
+    text-align: center;
+    padding: 15px 0 0 0;
+    clear: left; }
+  .header-button {
+    float: none !important;
+    width: auto;
+    text-align: center;
+    padding-top: 15px; }
+  .header-fixed .header-logo {
+    width: 150px; }
+  .header-fixed .header-logo img {
+    max-width: 100%; }
+  .header-fixed .header-button {
+    float: right !important; }
+  .header-fixed .header-button .btn-1 {
+    padding: 7px 10px;
+    font-size: 11px; }
+  .main-section-top {
+    padding-top: 225px; }
+  .section-top-lead {
+    font-size: 28px;
+    line-height: 34px; }
+  .section-top-percent .num {
+    float: none;
+    width: auto;
+    text-align: center;
+    padding: 0; }
+  .section-top-percent .text {
+    float: none;
+    width: auto;
+    text-align: center; }
+  .main-section h2,
+  .main-section .h2 {
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center; }
+  .plan-tmb h3,
+  .plan-tmb .h3 {
+    font-size: 20px;
+    line-height: 24px; }
+  .section-top-patent-text {
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center; }
+  .pros-tmb h3,
+  .pros-tmb .h3 {
+    font-size: 15px;
+    line-height: 20px; }
+  .tris-list .col-xs-6 {
+    float: none !important;
+    width: auto !important;
+    text-align: center; }
+  .tris-tmb-num {
+    margin-left: auto;
+    margin-right: auto; }
+  .main-section-dot-pros {
+    padding-top: 32px; }
+  .dot-pros-tmb {
+    margin-bottom: 40px; }
+  .dot-tmb-pic {
+    float: none;
+    margin-left: auto;
+    margin-right: auto; }
+  .dot-tmb-descr {
+    margin-left: 0;
+    margin-top: 20px;
+    text-align: center; }
+  .dot-tmb-descr .cont {
+    display: block;
+    height: auto; }
+  .gene-pic {
+    margin-bottom: 20px; }
+  .main-section-recommend {
+    padding-top: 0; }
+  .question-form {
+    padding: 25px 20px; }
+  .recommend-wrapper {
+    margin: 70px 0 0 0; }
+  .info-form-wrapper {
+    margin: 26px 0 0 0; }
+  .lab-pros-tmb {
+    display: block;
+    width: auto;
+    float: none;
+    text-align: center;
+    margin-bottom: 30px; }
+  .lab-pros-tmb-pic {
+    margin-left: auto;
+    margin-right: auto; }
+  .research-step {
+    height: auto;
+    margin-bottom: 30px; }
+  .research-step-num {
+    display: none; }
+  .research-step:before {
+    display: none; }
+  .research-step-descr {
+    margin-left: 0; }
+  .about-list {
+    margin-top: 30px; }
+  .team-tmb {
+    width: 50%; }
+  .team-tmb:nth-child(3n+1) {
+    clear: none; }
+  .team-tmb:nth-child(2n+1) {
+    clear: left; }
+  .an-step-pic {
+    float: none;
+    margin-left: auto;
+    margin-right: auto; }
+  .an-step-descr {
+    margin-left: 0;
+    margin-top: 20px; } }
+
+/* Mobile END */
